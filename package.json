@@ -1,0 +1,25 @@
+{
+  "name": "anti-autohome-series",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xovel/anti-autohome-series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xovel/anti-autohome-series/issues"
+  },
+  "homepage": "https://github.com/xovel/anti-autohome-series#readme",
+  "devDependencies": {
+    "node-xlsx": "^0.15.0",
+    "psargv": "0.0.6"
+  }
+}
